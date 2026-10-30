@@ -41,6 +41,10 @@ main {
 }
 
 section {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 20px;
   background-color: #ffffff;
   border: 1px solid #e1e8e2;
   border-radius: 10px;
