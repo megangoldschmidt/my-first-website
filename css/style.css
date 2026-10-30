@@ -43,3 +43,8 @@ span {
   padding: 5px 10px;
   border-radius: 15px;
 }
+
+.contact a {
+  color: #146b55;
+  text-decoration: none;
+}
