@@ -20,6 +20,11 @@ header {
   padding: 40px;
 }
 
+header p,
+footer p {
+  color: #536760;
+}
+
 h2 {
   margin: 0;
 }
