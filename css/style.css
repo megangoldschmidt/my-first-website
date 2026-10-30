@@ -48,3 +48,7 @@ span {
   color: #146b55;
   text-decoration: none;
 }
+
+.contact a:hover {
+  text-decoration: underline;
+}
